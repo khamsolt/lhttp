@@ -1,0 +1,19 @@
+{
+  "name": "xmn/lhttp",
+  "description": "Light cUrl requests",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Magomed Khamidov",
+      "email": "khamidov.che@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Lhttp\\":"/src/"
+    }
+  }
+}
